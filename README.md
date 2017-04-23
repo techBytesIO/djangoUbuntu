@@ -14,7 +14,7 @@ __Consists of:__
 * htop Process Viewer
 
 ## Standing up your Django Development Environment
-Watch the tutorial on setting it up on [techBytes.io](https://techbytes.io/2017/03/12/virtual-django-environment-with-vagrant/)
+Watch the tutorial on setting it up on [techBytes.io](https://youtu.be/S8H7gQUdysU)
 ### Pull down the box from Vagrant
 You can download the box from the official [Vagrant site](https://atlas.hashicorp.com/techbytes/boxes/djangoUbuntu)
 - or -
